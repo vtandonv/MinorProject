@@ -1,2 +1,2 @@
 # MinorProject
-Logistic Regression Classifier
+Machine Learning : Logistic Regression Classifier
