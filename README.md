@@ -1,0 +1,2 @@
+# MinorProject
+Logistic Regression Classifier
